@@ -1,5 +1,10 @@
-function App() {
-  return <h1>ANSH GARG</h1>;
-}
+import Basic from "./basic";
 
+function App() {
+  return (
+    <>
+      <Basic />
+    </>
+  );
+}
 export default App;

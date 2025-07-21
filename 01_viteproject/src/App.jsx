@@ -1,6 +1,8 @@
+import Basic from "./basic"
+
 function App() {
   return (
-    <h1>HELLO GUYS</h1>
+    <Basic/>
   )
 }
 
